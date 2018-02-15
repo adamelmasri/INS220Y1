@@ -1,8 +1,8 @@
-#Verbs 
+# Verbs 
 
-##Subjective
+## Subjective
 
-###C Stem
+### C Stem
 
 | Tense         | *__ like it*      | *__ live*        |
 | ------------- | ----------------- | ---------------- |
@@ -23,9 +23,9 @@
 | They Ms/mixed | **rati**nònwe's   | **rati**nákere   |
 | They Fs       | **konti**nònwe's  | **konti**nákere  |
 
-##Objective
+## Objective
 
-###C Stem
+### C Stem
 
 | Tense         | *__ am sick*          |
 | ------------- | --------------------- |
@@ -68,7 +68,7 @@
 | They Fs       | **ion**aterièn:tare    |
 
 
-#Pronouns
+# Pronouns
 
 | English                 | Mohawk            |
 | ----------------------- | ----------------- |
@@ -89,7 +89,7 @@
 
 
 
-#Common Phrases and Greetings
+# Common Phrases and Greetings
 
 | English                            | Mohawk                          |
 | ---------------------------------- | ------------------------------- |
@@ -134,7 +134,7 @@
 | To na'tesohseriiàkon?              | How old are you?                |
 | Tewahsen ahsen na'tewakohseriiàkon | I am 23 years old               |
 
-#Questions
+# Questions
 | Mohawk        | English             |
 | ------------- | ------------------- |
 | Ka'nón:we ?   | Where?              |
@@ -155,7 +155,7 @@
 | thí:ken        | that *(identifying)* |
 | tóka           | if *(with verb)*     |
 
-#Modifiers
+# Modifiers
 | Mohawk          | English        |
 | --------------- | -------------- |
 | Akwah í:ken tsi | Really / A lot |
@@ -164,7 +164,7 @@
 | Senha           | More           |
 | Shékon          | Still          |
 
-#Numbers
+# Numbers
 | Mohawk                         | Number |
 | ------------------------------ | ------ |
 | énska                          | 1      |
