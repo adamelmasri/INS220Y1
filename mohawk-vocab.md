@@ -94,7 +94,8 @@
 | English                            | Mohawk                          |
 | ---------------------------------- | ------------------------------- |
 | Shé:kon                            | "Hello"                         |
-| Skennen'kó:wa ken?                 | Is there great peace            |
+| Thok ní:kon                        | "That's it" (I'm done)          |
+| Skennen'kó:wa ken?                 | Is there great peace            |
 | Oh niiohtonhátie?                  | How's it going?                 |
 | Ioianerátie                        | It's going well                 |
 | Iah teioianerátie                  | It's not going well             |
