@@ -48,7 +48,7 @@
 
 ### A Stem
 
-| Tense         |                        |
+| Tense         |  *__ know (something)* |
 | ------------- | ---------------------- |
 | **Stem**      | -aterièn:tare          |
 | I             | **wak**aterièn:tare    |
