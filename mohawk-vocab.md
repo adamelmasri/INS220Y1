@@ -15,7 +15,7 @@
 | You & I       | **teni**nònwe's   | **teni**nákere   |
 | S.o & I       | **iakeni**nònwe's | **iakeni**nákere |
 | You two       | **seni**nònwe's   | **seni**nákere   |
-| Two Ms/mixed  | *h***ni**nònwe's  | *h***ni**nákere  |
+| Two Ms/mixed  | **ni**nònwe's     | **ni**nákere     |
 | Two Fs        | **keni**nònwe's   | **keni**nákere   |
 | You all & I   | **tewa**nònwe's   | **tewa**nákere   |
 | They & I      | **iakwa**nònwe's  | **iakwa**nákere  |
@@ -38,7 +38,7 @@
 | You & I       | **ionkeni**nonwáktani |
 | S.o & I       | **ionkeni**nonwáktani |
 | You two       | **seni**nonwáktani    |
-| Two Ms/mixed  | *h***roti**nonwáktani |
+| Two Ms/mixed  | **roti**nonwáktani    |
 | Two Fs        | **ioti**nonwáktani    |
 | You all & I   | **ionkwa**nonwáktani  |
 | They & I      | **ionkwa**nonwáktani  |
@@ -48,24 +48,83 @@
 
 ### A Stem
 
-| Tense         |  *__ know (something)* |
-| ------------- | ---------------------- |
-| **Stem**      | -aterièn:tare          |
-| I             | **wak**aterièn:tare    |
-| You           | **s**aterièn:tare      |
-| He            | **ro**terièn:tare      |
-| She           | **iako**aterièn:tare   |
-| It            | **io**aterièn:tare     |
-| You & I       | **ionti**aterièn:tare  |
-| S.o & I       | **ionti**aterièn:tare  |
-| You two       | **ts**aterièn:tare     |
-| Two Ms/mixed  | *h***ron**aterièn:tare |
-| Two Fs        | **ion**aterièn:tare    |
-| You all & I   | **ionkw**aterièn:tare  |
-| They & I      | **ionkw**aterièn:tare  |
-| You all       | **sew**aterièn:tare    |
-| They Ms/mixed | **ron**aterièn:tare    |
-| They Fs       | **ion**aterièn:tare    |
+| Tense         | *__ know (something)* | *__ am happy*         |
+| ------------- | --------------------- | --------------------- |
+| **Stem**      | -aterièn:tare         | -atshennón:ni         |
+| I             | **wak**aterièn:tare   | **wak**atshennón:ni   |
+| You           | **s**aterièn:tare     | **s**atshennón:ni     |
+| He            | **ro**terièn:tare     | **ro**tshennón:ni     |
+| She           | **iako**aterièn:tare  | **iako**tshennón:ni   |
+| It            | **io**aterièn:tare    | **io**tshennón:ni     |
+| You & I       | **ionti**aterièn:tare | **ionti**atshennón:ni |
+| S.o & I       | **ionti**aterièn:tare | **ionti**atshennón:ni |
+| You two       | **ts**aterièn:tare    | **ts**atshennón:ni    |
+| Two Ms/mixed  | **ron**aterièn:tare   | **ron**atshennón:ni   |
+| Two Fs        | **ion**aterièn:tare   | **ion**atshennón:ni   |
+| You all & I   | **ionkw**aterièn:tare | **ionkw**atshennón:ni |
+| They & I      | **ionkw**aterièn:tare | **ionkw**atshennón:ni |
+| You all       | **sew**aterièn:tare   | **sew**atshennón:ni   |
+| They Ms/mixed | **ron**aterièn:tare   | **ron**atshennón:ni   |
+| They Fs       | **ion**aterièn:tare   | **ion**atshennón:ni   |
+
+
+## Transitive
+
+| Tense     | *__ call __ (something)* |
+| --------- | ------------------------ |
+| **Stem**  | -                        |
+| Her > I   | ióntiáts                 |
+| Her > You | iesá:iats                |
+| Her > He  | ronwá:iats               |
+| Her > Her | iontátiats               |
+| Her > It  | konwá:iats               |
+
+*Note that 'her' in this context is used for anybody*.
+
+
+### C Stem
+
+#### S.o -> S.o
+
+| Tense          | *__ like __*       | *__ love __*          |
+| -------------- | ------------------ | --------------------- |
+| **Stem**       | -nònwe's           | -norónhkhwa           |
+| I > You        | **kon**nònwe's     | **kon**norónhkhwa     |
+| I > He         | **ri**nònwe's      | **ri**norónhkhwa      |
+| I > She/They   | **khe**nònwe's     | **khe**norónhkhwa     |
+| You > I        | **ehtse**nònwe's   | **ehtse**norónhkhwa   |
+| You > He       | **she**nònwe's     | **she**norónhkhwa     |
+| You > She/They | **teni**nònwe's    | **teni**norónhkhwa    |
+| He > I         | **rake**nònwe's    | **rake**norónhkhwa    |
+| He > You       | **ia**nònwe's      | **ia**norónhkhwa      |
+| He > He        | **ro**nònwe's      | **ro**norónhkhwa      |
+| He > She/They  | **shako**nònwe's   | **shako**norónhkhwa   |
+| She/They > I   | **ionke**nònwe's   | **ionke**norónhkhwa   |
+| She/They > You | **iesa**nònwe's    | **iesa**norónhkhwa    |
+| She/They > He  | **ronwa**nònwe's   | **ronwa**norónhkhwa   |
+| She/They > She | **iontate**nònwe's | **iontate**norónhkhwa |
+
+#### Reflexive (S.o > themselves)
+
+| Tense         | *__ like __*         | *__ love __*            |
+| ------------- | -------------------- | ----------------------- |
+| **Stem**      | -nònwe's             | -norónhkhwa             |
+| I             | **katate**nònwe's    | **katate**norónhkhwa    |
+| You           | **satate**nònwe's    | **satate**norónhkhwa    |
+| He            | **ratate**nònwe's    | **ratate**norónhkhwa    |
+| She           | **yontate**nònwe's   | **yontate**norónhkhwa   |
+| It            | **watate**nònwe's    | **watate**norónhkhwa    |
+| You & I       | **tiatate**nònwe's   | **tiatate**norónhkhwa   |
+| S.o & I       | **iatiatate**nònwe's | **iatiatate**norónhkhwa |
+| You two       | **tsatate**nònwe's   | **tsatate**norónhkhwa   |
+| Two Ms/mixed  | **iatate**nònwe's    | **iatate**norónhkhwa    |
+| Two Fs        | **tiatate**nònwe's   | **tiatate**norónhkhwa   |
+| You all & I   | **tewatate**nònwe's  | **tewatate**norónhkhwa  |
+| They & I      | **iakwatate**nònwe's | **iakwatate**norónhkhwa |
+| You all       | **sewatate**nònwe's  | **sewatate**norónhkhwa  |
+| They Ms/mixed | **rontate**nònwe's   | **rontate**norónhkhwa   |
+| They Fs       | **kontate**nònwe's   | **kontate**norónhkhwa   |
+
 
 
 # Pronouns
@@ -95,7 +154,7 @@
 | ---------------------------------- | ------------------------------- |
 | Shé:kon                            | "Hello"                         |
 | Thok ní:kon                        | "That's it" (I'm done)          |
-| Skennen'kó:wa ken?                 | Is there great peace            |
+| Skennen'kó:wa ken?                 | Is there great peace            |
 | Oh niiohtonhátie?                  | How's it going?                 |
 | Ioianerátie                        | It's going well                 |
 | Iah teioianerátie                  | It's not going well             |
@@ -136,13 +195,14 @@
 | Tewahsen ahsen na'tewakohseriiàkon | I am 23 years old               |
 
 # Questions
-| Mohawk        | English             |
-| ------------- | ------------------- |
-| Ka'nón:we ?   | Where?              |
-| Ka'nitisé:non | Where are you from? |
-| Ónhka?        | Who?                |
-| Ka' niká:ien  | Which one?          |
-| Káton         | Or                  |
+| Mohawk            | English             |
+| ----------------- | ------------------- |
+| Ka'nón:we ?       | Where?              |
+| Ka'nitisé:non     | Where are you from? |
+| Ónhka?            | Who?                |
+| Ka' niká:ien      | Which one?          |
+| Káton             | Or                  |
+| Tó: niiohwistà:'e | What time is it?    |
 
 
 # Conjunctions
@@ -186,5 +246,43 @@
 | énska tewen'niáwe              | 100    |
 | énska tewen'niáwe táhnon énska | 101    |
 | énska tháohsehn                | 1000   |
+
+
+# Time
+| Mohawk                                                                  | Time                |
+| ----------------------------------------------------------------------- | ------------------- |
+| iotohétston                                                             | after (past)        |
+| sha'tewahsén:nen                                                        | half                |
+| tiò:to'kte                                                              | missing from (less) |
+| ká:r                                                                    | quarter             |
+| orhon'kè:ne                                                             | morning             |
+| éntie                                                                   | noon                |
+| iotohétston néntie                                                      | after noon          |
+| orhon'kè:ne                                                             | morning             |
+| o'karásha                                                               | evening             |
+| ahsonthèn:ne                                                            | night (time)        |
+| énska niiohwistà:'e                                                     | 1:00                |
+| énska niiohwistà:'e iotohétston néntie                                  | 1:00 pm             |
+| énska niiohwistà:'e orhon'kè:ne                                         | 1:00 am             |
+| énska sha'tewahsén:nen orhon'kè:ne                                      | 1:30 am             |
+| kaié:ri niwáhsen (minit) iotohétston ne énska niiohwistà:'e orhon'kè:ne | 1:40 am             |
+| ká:r tiò:to'kte ne tékeni niiohwistà:'e  orhon'kè:ne                    | 1:45 am             |
+| wisk (minit) tiò:to'kte ne tékeni niiohwistà:'e  orhon'kè:ne            | 1:55 am             |
+| Iah énska teiohwistà:'e                                                 | not 1:00            |
+
+
+# People
+| Tense     | *Good People*         | *Bad People*           |
+| --------- | --------------------- | ---------------------- |
+| **Stem**  | -onkwe'tí:io          | -onkwe'táksen          |
+| I         | **k**onkwe'tí:io      | **k**onkwe'táksen      |
+| You       | *h***s**onkwe'tí:io   | *h***s**onkwe'táksen   |
+| He        | *h***r**onkwe'tí:io   | *h***r**onkwe'táksen   |
+| She       | **iak**onkwe'tí:io    | **iak**onkwe'táksen    |
+| Two Ms/Fs | te**hn**onkwe'tí:io's | te**hn**onkwe'táksen's |
+| Ms/Fs     | **ronn**onkwe'tí:io's | **ronn**onkwe'táksen's |
+
+
+
 
 
