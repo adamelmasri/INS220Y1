@@ -92,9 +92,9 @@
 | I > You        | **kon**nònwe's     | **kon**norónhkhwa     |
 | I > He         | **ri**nònwe's      | **ri**norónhkhwa      |
 | I > She/They   | **khe**nònwe's     | **khe**norónhkhwa     |
-| You > I        | **ehtse**nònwe's   | **ehtse**norónhkhwa   |
-| You > He       | **she**nònwe's     | **she**norónhkhwa     |
-| You > She/They | **teni**nònwe's    | **teni**norónhkhwa    |
+| You > I        | **take**nònwe's    | **take**norónhkhwa    |
+| You > He       | **ehtshe**nònwe's  | **ehtshe**norónhkhwa  |
+| You > She/They | **she**nònwe's     | **she**norónhkhwa     |
 | He > I         | **rake**nònwe's    | **rake**norónhkhwa    |
 | He > You       | **ia**nònwe's      | **ia**norónhkhwa      |
 | He > He        | **ro**nònwe's      | **ro**norónhkhwa      |
