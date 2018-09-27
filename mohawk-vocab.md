@@ -182,7 +182,7 @@
 | Watié:sen                          | It's easy                       |
 | Wentó:re                           | It's hard                       |
 | Ne sháka                           | Same                            |
-| Skennen saronhtónnion!             | Think peacefully! *(I'm sorry)* |
+| Skennen sanonhtónnion!             | Think peacefully! *(I'm sorry)* |
 | Ka'ni                              | Where? *(short form)*           |
 | Ka'nón:we ?                        | Where ?                         |
 | Ka'nón:we senákere                 | Where do you live?              |
