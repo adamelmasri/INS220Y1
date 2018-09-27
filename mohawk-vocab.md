@@ -261,6 +261,7 @@
 | orhon'kè:ne                                                             | morning             |
 | o'karásha                                                               | evening             |
 | ahsonthèn:ne                                                            | night (time)        |
+| ahsónthen                                                               | midnight            |
 | énska niiohwistà:'e                                                     | 1:00                |
 | énska niiohwistà:'e iotohétston néntie                                  | 1:00 pm             |
 | énska niiohwistà:'e orhon'kè:ne                                         | 1:00 am             |
